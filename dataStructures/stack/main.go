@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Stack represents stack that hold a slice
+// Stack represents a stack that hold a slice
 type Stack struct {
 	items []int
 }
